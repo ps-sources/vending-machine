@@ -1,0 +1,25 @@
+{
+    "outlets": {
+      "count": 3
+    },
+    "quantity": {
+      "water": 500,
+      "milk": 500,
+      "tea": 100,
+      "sugar": 100,
+      "coffee": 100
+    },
+    "beverages": {
+      "hotTea": {
+        "water": 200,
+        "milk": 100,
+        "sugar": 10,
+        "tea": 30
+      },
+      "greenTea": {
+        "water": 100,
+        "sugar": 50,
+        "tea": 30
+      }
+    }
+}
